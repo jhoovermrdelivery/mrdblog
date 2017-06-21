@@ -25,10 +25,11 @@ social_aggregate_score_detail:
 social_aggregate_score_decayed:
   - ""
 social_aggregate_score_decayed_last_updated:
-  - "1497639445"
+  - "1498024188"
 socialcount_LAST_UPDATED:
-  - "1497639445"
+  - "1498024188"
 ---
+[SPGM id="660"]
 <h4 class="wsite-content-title"><span style="font-size:300%;">WHERE WE DELIVER</span></h4>
 <div class="paragraph"><span style="font-size:x-large;">Mr. Delivery is in 19 cities and growing! Click on your city to explore restaurant menus that can be delivered straight to your door.</span></div>
 <div class="paragraph"></div>
